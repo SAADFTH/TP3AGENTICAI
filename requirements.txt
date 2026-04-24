@@ -1,0 +1,13 @@
+langchain
+langchain-classic
+langchain-openai
+python-dotenv
+langchain-community
+duckduckgo-search
+tavily-python
+langchain-experimental
+pytest
+ddgs
+streamlit
+faiss-cpu
+pypdf
